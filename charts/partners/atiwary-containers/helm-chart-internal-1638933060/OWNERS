@@ -5,4 +5,4 @@ publicPgpKey: unknown
 users: []
 vendor:
   label: atiwary-containers
-  name: Red Hat
+  name: Red Hat, Inc.
