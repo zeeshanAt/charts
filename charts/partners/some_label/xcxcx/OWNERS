@@ -5,4 +5,4 @@ publicPgpKey: unknown
 users: []
 vendor:
   label: some_label
-  name: Artificial Vendor
+  name: rhn-test-1710-8-Company
