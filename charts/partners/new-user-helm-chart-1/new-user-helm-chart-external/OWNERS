@@ -1,0 +1,8 @@
+chart:
+  name: new-user-helm-chart-external
+  shortDescription: unknown
+publicPgpKey: unknown
+users: []
+vendor:
+  label: new-user-helm-chart-1
+  name: test-on-new11009
