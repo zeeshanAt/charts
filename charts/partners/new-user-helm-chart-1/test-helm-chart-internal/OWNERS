@@ -1,0 +1,9 @@
+chart:
+  name: test-helm-chart-internal
+  shortDescription: null
+publicPgpKey: null
+users:
+- githubUsername: sawalgiriraj
+vendor:
+  label: new-user-helm-chart-1
+  name: test-on-new11009
