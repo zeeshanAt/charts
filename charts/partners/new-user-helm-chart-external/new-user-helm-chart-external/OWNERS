@@ -1,0 +1,9 @@
+chart:
+  name: new-user-helm-chart-external
+  shortDescription: null
+publicPgpKey: null
+users:
+- githubUsername: sawalgiriraj
+vendor:
+  label: new-user-helm-chart-external
+  name: test-on-new11009
