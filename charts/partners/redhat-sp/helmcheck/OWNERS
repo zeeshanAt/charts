@@ -1,8 +1,9 @@
 chart:
   name: helmcheck
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: null
+publicPgpKey: null
+users:
+- githubUsername: rnargotr677
 vendor:
   label: redhat-sp
   name: Red Hat INC
