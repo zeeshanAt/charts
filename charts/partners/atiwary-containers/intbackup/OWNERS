@@ -1,8 +1,9 @@
 chart:
   name: intbackup
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: dgrt
+publicPgpKey: null
+users:
+- githubUsername: rnargotr5fdg
 vendor:
   label: atiwary-containers
   name: Red Hat, Inc.
