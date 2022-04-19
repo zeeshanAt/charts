@@ -21,4 +21,4 @@ users:
 - githubUsername: gautamkrishnar
 vendor:
   label: atiwary-containers
-  name: Red Hat
+  name: Red Hat, Inc.
