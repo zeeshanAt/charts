@@ -1,7 +1,7 @@
 chart:
   name: testhelmchart
   shortDescription: null
-publicPgpKey: null
+publicPgpKey: dGVzdA==
 users:
 - githubUsername: yuyuyuyyuyuyu
 vendor:
