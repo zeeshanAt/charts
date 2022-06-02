@@ -1,6 +1,6 @@
 chart:
   name: testhelmchart
-  shortDescription: null
+  shortDescription: test
 publicPgpKey: dGVzdA==
 users:
 - githubUsername: yuyuyuyyuyuyu
