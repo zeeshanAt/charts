@@ -1,0 +1,8 @@
+chart:
+  name: helm9
+  shortDescription: unknown
+publicPgpKey: unknown
+users: []
+vendor:
+  label: ts682290422
+  name: rhn-support-e2e-02121909898736-com
