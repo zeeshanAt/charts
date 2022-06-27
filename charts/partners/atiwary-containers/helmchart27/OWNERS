@@ -1,8 +1,9 @@
 chart:
   name: helmchart27
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: testtttt
+publicPgpKey: dGVzdHR0dHR0dHR0dHR0dHQ=
+users:
+- githubUsername: testtt
 vendor:
   label: atiwary-containers
   name: Red Hat, Inc.
