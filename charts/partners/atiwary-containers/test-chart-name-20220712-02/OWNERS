@@ -1,0 +1,8 @@
+chart:
+  name: test-chart-name-20220712-02
+  shortDescription: unknown
+publicPgpKey: unknown
+users: []
+vendor:
+  label: atiwary-containers
+  name: Red Hat, Inc.
