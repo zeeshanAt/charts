@@ -1,8 +1,9 @@
 chart:
   name: test-1660-1
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: a
+publicPgpKey: Z3l1aWd5dWllZ3lodWlnaHRnZWk=
+users:
+- githubUsername: sawalgiriraj
 vendor:
   label: atiwary-containers
   name: Red Hat, Inc.
