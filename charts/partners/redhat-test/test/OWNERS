@@ -1,8 +1,9 @@
 chart:
   name: test
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: uyuyuyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+publicPgpKey: null
+users:
+- githubUsername: yuuyuyuyuyu
 vendor:
   label: redhat-test
   name: Red Hat, Inc.
