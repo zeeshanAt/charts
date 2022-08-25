@@ -1,8 +1,9 @@
 chart:
   name: helm25082022
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: null
+publicPgpKey: null
+users:
+- githubUsername: ssvsv
 vendor:
   label: redhj-hjhjh
   name: Red Hat, Inc.
