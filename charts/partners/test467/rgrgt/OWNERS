@@ -1,8 +1,9 @@
 chart:
   name: rgrgt
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: rgr
+publicPgpKey: null
+users:
+- githubUsername: tgrg
 vendor:
   label: test467
   name: rhn-support-test1710922225
