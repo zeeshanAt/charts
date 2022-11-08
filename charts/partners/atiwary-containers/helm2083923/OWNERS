@@ -1,8 +1,9 @@
 chart:
   name: helm2083923
-  shortDescription: unknown
-publicPgpKey: unknown
-users: []
+  shortDescription: null
+publicPgpKey: null
+users:
+- githubUsername: safdsf
 vendor:
   label: atiwary-containers
   name: Red Hat, Inc.
