@@ -1,9 +1,10 @@
 chart:
   name: stageweb
-  shortDescription: unknown
+  shortDescription: null
 providerDelivery: false
-publicPgpKey: unknown
-users: []
+publicPgpKey: null
+users:
+- githubUsername: test user
 vendor:
   label: redhat-sp
   name: GLOBAL SUPPORT SERVI RED HAT, INC.
