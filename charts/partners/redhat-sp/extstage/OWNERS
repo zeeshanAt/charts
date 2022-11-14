@@ -1,9 +1,10 @@
 chart:
   name: extstage
-  shortDescription: unknown
+  shortDescription: null
 providerDelivery: true
-publicPgpKey: unknown
-users: []
+publicPgpKey: null
+users:
+- githubUsername: test accc
 vendor:
   label: redhat-sp
   name: GLOBAL SUPPORT SERVI RED HAT, INC.
